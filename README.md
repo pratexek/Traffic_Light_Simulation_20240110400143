@@ -1,4 +1,4 @@
-# Traffic Light Simulation ????
+# Traffic Light Simulation
 
 ## Introduction
 This is a basic Traffic Light Simulation created with Python and Matplotlib. It graphically illustrates how traffic lights function, including a countdown timer and concise messages for every light.
